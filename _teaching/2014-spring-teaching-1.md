@@ -1,6 +1,6 @@
 ---
 title: "Introducción a la Macroeconomía"
-collection: Ayudantía
+collection: teaching
 type: "Ayudantía de Cátedra"
 permalink: /ensenanza/2026-imacro-ayud-1
 venue: "Universidad Alberto Hurtado, Ingeniería Comercial"
