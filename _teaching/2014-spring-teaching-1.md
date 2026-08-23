@@ -2,7 +2,7 @@
 title: "Introducción a la Macroeconomía"
 collection: teaching
 type: "Ayudantía de Cátedra"
-permalink: /ensenanza/2026-imacro-ayud-1
+permalink: /teaching/2026-intro-a-la-macro
 venue: "Universidad Alberto Hurtado, Ingeniería Comercial"
 date: 2026-08-20
 location: "Santiago, Chile"
