@@ -24,24 +24,24 @@ repository               : "ralcon3/ralcon3.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Raúl"
+  name             : "Raúl Ronald Alcón Quispe"
   pronouns         : # example: "she/her"  
-  bio              : "economía urbana"
+  bio              : "Economista"
   location         : "Bolivia | Chile"
   employer         : "Universidad Alberto Hurt"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ralcon@alumnos.uahurtado.cl" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL Google Scholar
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,22 +51,22 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Raúl Alcón"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "Raúl Ronald Alcón Quispe"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "ralcon.3"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Raúl Ronald Alcón
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
