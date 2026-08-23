@@ -4,7 +4,7 @@ collection: Ayudantía
 type: "Ayudantía de Cátedra"
 permalink: /ensenanza/2026-imacro-ayud-1
 venue: "Universidad Alberto Hurtado, Ingeniería Comercial"
-date: 2026
+date: 2026-08-20
 location: "Santiago, Chile"
 ---
 
