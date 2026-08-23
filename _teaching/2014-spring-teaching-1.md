@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Introducción a la Macroeconomía"
+collection: Ayudantía
+type: "Ayudantía de Cátedra"
+permalink: /ensenanza/2026-imacro-ayud-1
+venue: "Universidad Alberto Hurtado, Ingeniería Comercial"
+date: 2026
+location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Ayudantía de Cátedra de la asignatura Introducción a la Macroeconomía de la carrera de Ingeniería Comercial de la Universidad Alberto Hurtado para el ciclo II/2026.
 
 Heading 1
 ======
