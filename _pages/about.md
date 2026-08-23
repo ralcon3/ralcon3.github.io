@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Raúl Alcón - Economista"
+title: "Raúl Alcón"
 author_profile: true
 redirect_from: 
   - /about/
